@@ -1,0 +1,598 @@
+Reference.Code,Student.Number,Sex,Module.Language,Module.Duration,Module.City,module.lat,module.long,Module.Country,Home.Region,Home.Postal.Code
+AADR1147,2015-001-501677,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Wisconsin,53959
+ACRF5361,2015-001-500469,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Montana,59803
+ACZZ2113,2015-001-501018,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,Texas,75238
+ADUS7431,2015-001-511298,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,Georgia,30004
+AHKH8374,2015-001-511470,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60647
+AKBW3133,2015-001-501020,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Illinois,60502
+AQSV6345,2015-001-502311,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Washington,98006
+ARCA7467,2015-001-504456,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,New Jersey,7670
+ARPN4464,2015-001-503000,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Missouri,64113
+ATGH4148,2015-001-502555,Male,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,Arizona,85711
+ATGU7872,2015-001-509616,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Texas,77015
+ATVT6964,2015-001-501221,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Iowa,50010
+AUTZ6556,2015-001-501744,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Missouri,64080
+AYEC4878,2015-001-502995,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Kentucky,41701
+AZMW5529,2015-001-501675,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,90049
+AZNH6868,2015-001-502267,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Washington,98133
+BCXP3649,2015-001-504438,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Pennsylvania,19102
+BEZY9978,2015-001-511278,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4429
+BGRK1933,2015-001-502098,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Michigan,48044
+BHBK6944,2015-001-502603,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Idaho,83404
+BHMN1765,2015-001-502646,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,New York,10029
+BHNC4529,2015-001-503727,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,South Carolina,29651
+BHPH4787,2015-001-503406,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,New York,10576
+BHSS4492,2015-001-503412,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Massachusetts,2151
+BKBG5282,2015-001-500996,Male,Chinese,Year,Beijing,39.9042,116.4074,China,California,95117
+BKJZ7266,2015-001-501030,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Pennsylvania,19096
+BMEC1478,2015-001-500595,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Virginia,22152
+BMKR6369,2015-001-501076,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Minnesota,55346
+BNXF9812,2015-001-509621,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Texas,78516
+BQFU3964,2015-001-501240,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Minnesota,55443
+BQZT9898,2015-001-503030,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,Virginia,22207
+BRJT2794,2015-001-501782,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Maryland,21042
+BSNY7187,2015-001-501783,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Massachusetts,1720
+BTFJ8118,2015-001-503008,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,North Carolina,28618
+BWPS5393,2015-001-511269,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4428
+BYNM2279,2015-001-502517,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,New York,11105
+CAJA6727,2015-001-501779,Male,Korean,Summer,Jeonju,35.8242,127.148,South Korea,North Carolina,28139
+CAQJ1792,2015-001-501453,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Hawaii,96743
+CAVW9575,2015-001-502655,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Massachusetts,1720
+CBKK1857,2015-001-501628,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,West Virginia,25404
+CBPM3971,2015-001-501815,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Ohio,44844
+CDGV2498,2015-001-502831,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Texas,30813
+CGJU1653,2015-001-503890,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Montana,59802
+CHCJ7481,2015-001-503650,Female,Arabic,Year,Rabat,33.9716,6.8498,Morocco,Virginia,20151
+CJXY6421,2015-001-509624,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Texas,77530
+CJZB2286,2015-001-502077,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Texas,75002
+CKBW9396,2015-001-503804,Male,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,North Carolina,28210
+CKTG8726,2015-001-502086,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Alabama,36117
+CMPU2359,2015-001-501708,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Virginia,22030
+CMVA1744,2015-001-501475,Female,Hindi,Summer,Pune,18.5204,73.8567,India,New Hampshire,3431
+CNPH8754,2015-001-502018,Male,Korean,Summer,Jeonju,35.8242,127.148,South Korea,North Carolina,27519
+CNWU2863,2015-001-502162,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Hawaii,96821
+CPED2151,2015-001-500557,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,New York,14141
+CQCB6417,2015-001-501068,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Florida,33170
+CQWH9731,2015-001-502288,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Utah,84098
+CTCN6178,2015-001-501441,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Georgia,30135
+CTJP8545,2015-001-500563,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Colorado,80020
+CTVR4372,2015-001-503532,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,New York,11220
+CTVT7119,2015-001-502370,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Ohio,43220
+CUDH3975,2015-001-501016,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Maine,4217
+CUJC2769,2015-001-509608,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Washington,98108
+CVEK5354,2015-001-501997,Male,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Virginia,23455
+CVKN8811,2015-001-502379,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,New Jersey,7078
+CVMF8762,2015-001-501385,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Virginia,22205
+CVTC4488,2015-001-501328,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Pennsylvania,19403
+CWQU7715,2015-001-500974,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,North Carolina,28216
+CXSS2947,2015-001-500532,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Illinois,60550
+CYTR1249,2015-001-502002,Male,Hindi,Summer,Pune,18.5204,73.8567,India,California,94306
+CYWK7789,2015-001-501005,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Oregon,97330
+CZSY6827,2015-001-501362,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,Florida,33326
+DAWP5864,2015-001-502501,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Nevada,89512
+DBRQ3746,2015-001-501946,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Texas,75069
+DBUA9296,2015-001-502974,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Virginia,20165-7526
+DBUT1225,2015-001-500962,Male,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,New York,13501
+DCAB9576,2015-001-500609,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,New Jersey,8053
+DCBP4428,2015-001-503295,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Maryland,20912
+DCMC3888,2015-001-509639,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,New York,11232
+DCSP8459,2015-001-502366,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Illinois,60014
+DDZA1411,2015-001-500782,Male,Korean,Year,Seoul,37.5665,126.978,South Korea,Georgia,30039
+DFUZ7961,2015-001-501070,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Connecticut,6708
+DGQQ2961,2015-001-500588,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Wyoming,82009
+DKGW1473,2015-001-503611,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Pennsylvania,18104
+DKVS7273,2015-001-511277,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4853
+DMCG4461,2015-001-503748,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Illinois,62269
+DPRP4183,2015-001-503882,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Kansas,66207
+DSWF8632,2015-001-503429,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Kentucky,40245
+DSWU3657,2015-001-501143,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Arizona,85045
+DTGZ5291,2015-001-501636,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Tennessee,38138
+DWKM3792,2015-001-501061,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Florida,32086
+DWXX9723,2015-001-501434,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,California,91325
+DXAJ3775,2015-001-500727,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Virginia,23462
+DXHP5366,2015-001-504464,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Oregon,97034
+DXKH4325,2015-001-502318,Male,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,Florida,32578
+DXNE5397,2015-001-500993,Female,Turkish,Year,Izmir,38.4237,27.1428,Turkey,Michigan,48103-9436
+DZGT7198,2015-001-500435,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Idaho,83341
+DZVC9854,2015-001-500513,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Illinois,60098
+EAQB7513,2015-001-503907,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,New York,11215
+EBKM8571,2015-001-501448,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,South Carolina,29072
+EBKQ5293,2015-001-502277,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Maryland,20912
+EBPD5241,2015-001-501182,Male,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Texas,76001
+ECRU9194,2015-001-501697,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,North Carolina,28307
+EDTT1969,2015-001-501616,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Texas,77401
+EGDF4441,2015-001-500969,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,California,92128
+EGXG5289,2015-001-502243,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Minnesota,55113
+EHNG9259,2015-001-511305,Male,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Alaska,99516
+EHSE9276,2015-001-501002,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Texas,77092
+EKDC6694,2015-001-501663,Female,Chinese,Year,Beijing,39.9042,116.4074,China,New Jersey,8016
+EKMV8261,2015-001-509640,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Texas,77011
+EKUD3722,2015-001-501982,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Massachusetts,1503
+EMNA9982,2015-001-501994,Female,Chinese,Year,Beijing,39.9042,116.4074,China,Georgia,30350
+EQHW9153,2015-001-501471,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Oklahoma,74114
+ESJS7867,2015-001-502624,Male,Russian,Summer,Narva,#N/A,#N/A,Estonia,,259957
+ESPJ1593,2015-001-502460,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Indiana,47546
+ETUM5738,2015-001-501284,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Florida,32561
+EVUA3667,2015-001-500772,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Massachusetts,2632
+EWPG2115,2015-001-502421,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,California,91302
+EYCV8112,2015-001-501643,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Tennessee,38017
+FABS4683,2015-001-503025,Female,Hindi,Summer,Indore,22.7196,75.8577,India,North Carolina,27517
+FANV8389,2015-001-502696,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Oregon,97702
+FAQA1474,2015-001-503900,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,North Carolina,27278
+FBEU6917,2015-001-503702,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,New York,10024
+FBPM3687,2015-001-509617,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Nevada,89032
+FBUJ4192,2015-001-500651,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,District of Columbia,20015
+FCHU9432,2015-001-503201,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Arkansas,72015
+FDED6948,2015-001-502580,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Tennessee,37934
+FEFK1558,2015-001-503419,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Connecticut,6708
+FFSS6547,2015-001-502513,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Utah,84092
+FFZR4547,2015-001-511302,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,93109
+FHNW4857,2015-001-503133,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,California,91711
+FJVX2633,2015-001-502218,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Texas,76205
+FKQB4889,2015-001-503374,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Colorado,80920
+FKUN1748,2015-001-503447,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Kentucky,40206
+FNTK8917,2015-001-503821,Male,Russian,Summer,Kirov,58.4199,50.2097,Russia,North Carolina,28104
+FNZQ1599,2015-001-501212,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Massachusetts,2461
+FNZR4815,2015-001-501575,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,California,91436
+FPSW2233,2015-001-503344,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,West Virginia,25419
+FPTQ2451,2015-001-502734,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,District of Columbia,20007
+FPVE9865,2015-001-503012,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Illinois,60422
+FSFG6273,2015-001-500508,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Ohio,45387
+FSYD9145,2015-001-511279,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4103
+FTBG2181,2015-001-502886,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Wisconsin,53086
+FTPT6676,2015-001-503184,Male,Russian,Summer,Narva,59.3797,28.1791,Estonia,Mississippi,39701
+FUCC7387,2015-001-503064,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Georgia,30327
+FWXH6746,2015-001-502794,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Illinois,60302
+FXQZ1774,2015-001-503734,Male,Russian,Summer,Kirov,58.4199,50.2097,Russia,Virginia,23692
+FYGC2157,2015-001-503086,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Florida,34786
+GAJU4615,2015-001-500555,Male,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,New York,10075
+GAZX2861,2015-001-501445,Male,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Texas,76502
+GBVQ7554,2015-001-511309,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Virginia,23692
+GDZX2172,2015-001-500784,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Nebraska,68114
+GEBG8814,2015-001-502685,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,New York,10021
+GEFC7796,2015-001-501522,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,New Jersey,7078
+GENW6197,2015-001-501530,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Arizona,85215
+GGDN6381,2015-001-503853,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Connecticut,6820
+GGPX7272,2015-001-501704,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Massachusetts,2474
+GGUA1475,2015-001-503739,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Missouri,63385
+GMHF4412,2015-001-502684,Male,Russian,Summer,Kirov,58.4199,50.2097,Russia,California,94546
+GNGZ1477,2015-001-503103,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,New York,10028
+GPHQ9878,2015-001-502804,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Pennsylvania,15241
+GQKA7194,2015-001-502458,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Michigan,48051
+GQNP6156,2015-001-502983,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Maryland,20817
+GRQJ8142,2015-001-509620,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Illinois,60623
+GTJP9414,2015-001-500985,Male,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Illinois,60077
+GVMR6576,2015-001-500944,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Arizona,85020
+GWAP4668,2015-001-501086,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,"Armed Forces Europe (Africa, Canada, Europe, Middle East)",9012
+GXRW2189,2015-001-501189,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,California,92679
+GXZM2337,2015-001-502889,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Mississippi,39452
+GZFQ4666,2015-001-501165,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Minnesota,55433
+HAFW6885,2015-001-511306,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Florida,32174
+HBUN7794,2015-001-502034,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Connecticut,6033
+HCYB5624,2015-001-501444,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Utah,84117
+HCYX2435,2015-001-502902,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,North Carolina,28174
+HHWS1696,2015-001-502149,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,New York,10583
+HHXY4876,2015-001-509607,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Illinois,60653
+HJNR2745,2015-001-511272,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4282
+HJXH2564,2015-001-502848,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Connecticut,6840
+HJXP1678,2015-001-509615,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,11210
+HMRQ1181,2015-001-511276,Male,Chinese,Summer,Harbin,45.8038,126.535,China,New York,10956-2508
+HNZR6991,2015-001-509650,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Hawaii,96706
+HPED7441,2015-001-503188,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Ohio,45701
+HPEV7813,2015-001-500907,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,Kentucky,40004
+HPHP3849,2015-001-509604,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,New York,10029
+HRDH2227,2015-001-503002,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Missouri,63005-1350
+HSAT5754,2015-001-500989,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Rhode Island,02904-2701
+HSQV4225,2015-001-503886,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,California,95521
+HSVV9152,2015-001-503440,Male,Hindi,Summer,Indore,22.7196,75.8577,India,Montana,59715
+HSZU3732,2015-001-502943,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,New York,10804
+HTVE6749,2015-001-501149,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Virginia,23452
+HUKN7337,2015-001-501698,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Florida,32223
+HVFH3137,2015-001-500693,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,North Carolina,27603
+HXAT3756,2015-001-502247,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,Iowa,52077
+HXDN7815,2015-001-503759,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,California,92570
+HXUS6424,2015-001-511291,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4103
+JBJG4329,2015-001-500922,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Georgia,30078
+JFKK7112,2015-001-501568,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Illinois,60047
+JFNY2958,2015-001-503597,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Indiana,46256
+JGDF8858,2015-001-502413,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,California,90001
+JGDF9353,2015-001-509651,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Illinois,60478
+JGMM8674,2015-001-502201,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Texas,77478
+JHKU3243,2015-001-502427,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Hawaii,96707
+JHTT4816,2015-001-500576,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Washington,98110
+JHYZ9118,2015-001-501074,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Florida,33616
+JJKF2562,2015-001-502506,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Wisconsin,53154-3758
+JJYX1831,2015-001-511308,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60624
+JKFH2892,2015-001-501424,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,13104
+JKUT1448,2015-001-511304,Female,Chinese,Summer,Harbin,45.8038,126.535,China,New Hampshire,3281
+JPHC2662,2015-001-502855,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,New Jersey,7670
+JPST2377,2015-001-503869,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Indiana,46236
+JSBP5939,2015-001-501630,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Illinois,60201-3979
+JSFE6342,2015-001-511295,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60641
+JTJM8265,2015-001-502752,Female,Chinese,Year,Beijing,39.9042,116.4074,China,California,94708
+JTQB1233,2015-001-502111,Female,Chinese,Year,Beijing,39.9042,116.4074,China,Michigan,49024-2396
+JUQU7922,2015-001-501912,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Texas,78726
+JURV2494,2015-001-503442,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Florida,33317
+JUTN6465,2015-001-511284,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60647
+JVBR7819,2015-001-501207,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Pennsylvania,19003
+JVCY1376,2015-001-503793,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Massachusetts,1748
+JVKC3682,2015-001-503446,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Pennsylvania,17601
+JVWD3187,2015-001-501008,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Michigan,48381
+JWTQ7556,2015-001-511289,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Mississippi,39402
+JWXD9528,2015-001-503179,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Michigan,49456
+JXJR4436,2015-001-500933,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Virginia,23454
+JXSW2478,2015-001-501669,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Maryland,21042
+JYHR7137,2015-001-503614,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Pennsylvania,15102
+JYUT8368,2015-001-501057,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Wisconsin,53955
+JZEG4221,2015-001-501023,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,North Carolina,28714
+KACJ2633,2015-001-501775,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,South Dakota,57055
+KAJS3953,2015-001-503776,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Utah,84025
+KBKN7898,2015-001-509613,Male,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Texas,77011
+KCCC1674,2015-001-500580,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Indiana,46256
+KDUS8113,2015-001-509635,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Washington,98031
+KEMH5113,2015-001-509655,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Nevada,89106
+KEPH9863,2015-001-503479,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Minnesota,55434
+KFVC9158,2015-001-503115,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,California,95014
+KGHF1991,2015-001-502843,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Georgia,30033
+KGPR4235,2015-001-502401,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,New York,10128
+KHGC9184,2015-001-502329,Male,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Massachusetts,1770
+KHGE6533,2015-001-502173,Female,Arabic,Year,Rabat,33.9716,6.8498,Morocco,Hawaii,96743
+KKEW3789,2015-001-500983,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Texas,75024
+KMHS5491,2015-001-503761,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,New York,11208
+KMNV7872,2015-001-501501,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,New York,10703
+KNGC5741,2015-001-501735,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Hawaii,96706
+KQFY7941,2015-001-502009,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Oregon,97405
+KQWM6493,2015-001-501491,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Kentucky,42301
+KSTH3995,2015-001-501604,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Georgia,30040
+KUCC1238,2015-001-501619,Male,Russian,Summer,Narva,59.3797,28.1791,Estonia,Virginia,22192
+KUEF2318,2015-001-511292,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,94556
+KUSX3177,2015-001-501529,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Oregon,97006
+KVGD3793,2015-001-511471,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,94024
+KWKX9418,2015-001-500988,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,10022
+KXGU1917,2015-001-501006,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Montana,59715
+KXGV8539,2015-001-501495,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,North Carolina,27516
+MAEP8596,2015-001-502319,Male,Russian,Summer,Kirov,58.4199,50.2097,Russia,Texas,76205
+MAEV6613,2015-001-501037,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,North Carolina,28409
+MAHJ9126,2015-001-502377,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Pennsylvania,19095
+MAHZ5321,2015-001-500730,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,Wisconsin,53154
+MASP1833,2015-001-502155,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Montana,59715
+MDTD4388,2015-001-503362,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Louisiana,70001
+MFBN3163,2015-001-501141,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Florida,32968
+MFYR7152,2015-001-502091,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Illinois,60067
+MGDE3521,2015-001-503350,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,California,94563
+MJCV8699,2015-001-511307,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60629
+MJNV6161,2015-001-501932,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Ohio,45243
+MJPW3136,2015-001-503252,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,New York,10452
+MJSY6731,2015-001-500620,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Pennsylvania,16870
+MKJP3197,2015-001-502991,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Wisconsin,53536
+MMZS4667,2015-001-503530,Male,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Wisconsin,53593
+MNPJ1665,2015-001-501430,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Ohio,44028
+MNYP8185,2015-001-502906,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Minnesota,55009
+MPGM6874,2015-001-501129,Female,Arabic,Year,Rabat,33.9716,6.8498,Morocco,Minnesota,55129
+MQHG2617,2015-001-502899,Female,Chinese,Year,Beijing,39.9042,116.4074,China,California,94112
+MQXU3835,2015-001-501042,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Georgia,30338
+MRSS8589,2015-001-503186,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Minnesota,55129
+MRZU4955,2015-001-503542,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Ohio,44139
+MSDR9577,2015-001-502775,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,North Carolina,27260
+MSJB9886,2015-001-503445,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,New Jersey,8840
+MSPQ6393,2015-001-501842,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,Colorado,80027
+MSUV9579,2015-001-501595,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Virginia,22207
+MTHP5652,2015-001-511297,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Connecticut,6484
+MVCW6177,2015-001-511283,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4667
+MVPM3628,2015-001-502615,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Oregon,97215
+MWMW9782,2015-001-501999,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Minnesota,55104
+MXWB3584,2015-001-502117,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,Tennessee,37146
+MYKQ2667,2015-001-503092,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,North Carolina,27516
+MYTV6667,2015-001-501790,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Wisconsin,54476
+MZBU6232,2015-001-503488,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Utah,84043
+MZFP5917,2015-001-500559,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Arizona,85750
+MZMK1683,2015-001-502128,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Florida,33626
+NADQ6643,2015-001-502589,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Pennsylvania,19038
+NBBZ1812,2015-001-501664,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Ohio,45220
+NBVB9732,2015-001-502287,Male,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Virginia,22180
+NBXX8596,2015-001-500571,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Virginia,22102
+NBYP7672,2015-001-501618,Male,Hindi,Summer,Pune,18.5204,73.8567,India,Nebraska,68502
+NCPH8195,2015-001-503728,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,New Hampshire,03301-2591
+NDRH3926,2015-001-502578,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Ohio,44124
+NDVQ5411,2015-001-502740,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Colorado,80401
+NEAF2188,2015-001-500764,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Colorado,80020
+NEGS4698,2015-001-500999,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Maryland,20838
+NFCU1562,2015-001-511293,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4750
+NGYB4763,2015-001-502779,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Maryland,20854
+NKXW2625,2015-001-511300,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Ohio,44333
+NMRU4275,2015-001-500747,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Missouri,64865
+NQRZ7282,2015-001-502297,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Connecticut,6903
+NRBP2379,2015-001-503705,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Pennsylvania,15216
+NRWR9624,2015-001-502967,Male,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Florida,32082
+NSCY8547,2015-001-503473,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Georgia,30316
+NSWV3638,2015-001-502609,Male,Korean,Summer,Songdo,37.3839,126.6439,South Korea,South Carolina,29631
+NSXA6276,2015-001-502435,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Minnesota,55409
+NXHH4121,2015-001-501549,Male,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Alaska,99705
+NYCR3749,2015-001-503207,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Oregon,97219
+PAAU7733,2015-001-500492,Female,Turkish,Year,Izmir,38.4237,27.1428,Turkey,California,94112
+PAHF5989,2015-001-511476,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60641
+PAMN7295,2015-001-502987,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,New Jersey,8540
+PCDD3157,2015-001-503373,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Oklahoma,74128
+PCPD7515,2015-001-502803,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Illinois,60605
+PCWN9635,2015-001-503878,Female,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,New Hampshire,3431
+PJFH8161,2015-001-500736,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,North Carolina,28804
+PKMR5287,2015-001-503708,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Florida,33332
+PKQX1512,2015-001-500529,Female,Hindi,Summer,Pune,18.5204,73.8567,India,North Carolina,28078
+PNCE9885,2015-001-502765,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Pennsylvania,18034
+PPAE4728,2015-001-502454,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Utah,84108
+PPKU6197,2015-001-502369,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,Tennessee,37931
+PRGN8298,2015-001-502916,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Wisconsin,53012
+PSKY1894,2015-001-501667,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Maryland,21237
+PSTY8823,2015-001-502193,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Arizona,85323
+PWPQ1616,2015-001-502652,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,California,95008
+PWWG1443,2015-001-502070,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,District of Columbia,20008
+PZMY9995,2015-001-503144,Female,Chinese,Year,Beijing,39.9042,116.4074,China,Minnesota,56560
+QABR7841,2015-001-511303,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4861
+QATP7379,2015-001-501825,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Kentucky,42303
+QBPV1413,2015-001-503300,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Texas,75211
+QCEM2798,2015-001-502971,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,"Armed Forces Europe (Africa, Canada, Europe, Middle East)",9173
+QCGZ4551,2015-001-503097,Male,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,District of Columbia,20010
+QDQW6672,2015-001-502614,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Colorado,80920
+QEAZ3413,2015-001-502768,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,New York,11218
+QNKG3655,2015-001-502980,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Virginia,22207
+QPGP8856,2015-001-501561,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Kentucky,40142
+QPPE5378,2015-001-501132,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,North Carolina,27405
+QQPH5733,2015-001-503367,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Iowa,52002
+QSYA3967,2015-001-501025,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Nevada,89460
+QUAH1955,2015-001-501607,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,California,94903
+QVQT1217,2015-001-503899,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Kentucky,42103
+QVZY8353,2015-001-509642,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,New York,11206
+QYAV8396,2015-001-501868,Male,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,New York,10028
+QYHC6555,2015-001-511311,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60639
+QYYV8686,2015-001-502161,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Illinois,60565
+QZGB4313,2015-001-502284,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Ohio,45750
+QZHT8649,2015-001-500718,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Pennsylvania,16066
+RCQD7312,2015-001-502361,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Maine,4010
+RCSE5825,2015-001-502872,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Kansas,66049
+RDUE8242,2015-001-509652,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Washington,98118
+REDX1175,2015-001-503205,Male,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Indiana,46220
+RFFH4415,2015-001-500552,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,South Carolina,29073
+RFGC4736,2015-001-501309,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Maryland,21048
+RFNG4334,2015-001-500929,Male,Korean,Year,Seoul,37.5665,126.978,South Korea,Virginia,22044
+RGCP2869,2015-001-502189,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Massachusetts,2446
+RGWB5443,2015-001-501290,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,California,95864
+RHNV6565,2015-001-503098,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Armed Forces Pacific,96379
+RHUE8842,2015-001-509661,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,New Hampshire,3755
+RJHM9753,2015-001-503178,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,Indiana,46260
+RKPC6459,2015-001-502223,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Wisconsin,54914
+RNGS3333,2015-001-501513,Female,Hindi,Year,Indore,22.7196,75.8577,India,South Dakota,57754
+RNXN8863,2015-001-511285,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Texas,78218
+RPFX9575,2015-001-501587,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Georgia,31211
+RPRT1464,2015-001-502334,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Oregon,97006
+RPTF2986,2015-001-501565,Female,Chinese,Year,Changzhou,31.8112,119.9741,China,Tennessee,37932
+RPYM7938,2015-001-501836,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Michigan,48103-9401
+RQRX5597,2015-001-503599,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Ohio,43017
+RTJR5746,2015-001-501113,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Washington,98075
+RTMF8434,2015-001-511312,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4402
+RTWC1182,2015-001-502453,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,California,92660
+RUAE9442,2015-001-501418,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Michigan,48183
+RZFN5286,2015-001-502133,Female,Turkish,Year,Izmir,38.4237,27.1428,Turkey,Colorado,80210
+RZHR6846,2015-001-502392,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Vermont,5465
+RZVU7218,2015-001-503138,Male,Russian,Summer,Kirov,#N/A,#N/A,Russia,,266333
+SAFB4771,2015-001-500914,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,California,90403
+SBKA3687,2015-001-503913,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Illinois,60005
+SBKU5679,2015-001-511313,Male,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60638
+SBTF1697,2015-001-502058,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,California,91107
+SBXS9797,2015-001-501769,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Nebraska,68018
+SDCF4825,2015-001-501554,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Vermont,5401
+SDCQ7991,2015-001-502268,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,Illinois,60010
+SDHP3493,2015-001-502124,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Illinois,60404
+SDJW9945,2015-001-502672,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Alabama,35801
+SDQE2179,2015-001-501974,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Illinois,60707
+SEJN9597,2015-001-502172,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Arizona,85253
+SGZZ8271,2015-001-511286,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4461
+SJCB8367,2015-001-503244,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Pennsylvania,19130
+SKTR3641,2015-001-500934,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Pennsylvania,19153
+SMYF5929,2015-001-511299,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4046
+SSAF1995,2015-001-501426,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Hawaii,96817
+STPV1984,2015-001-500771,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,South Carolina,29482
+STSW9137,2015-001-501066,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Virginia,22044
+SVAQ7565,2015-001-502221,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Colorado,81005
+SWGV5285,2015-001-503426,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Maine,4474
+SWPR3486,2015-001-503398,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Nevada,89123
+SYZQ6377,2015-001-503422,Male,Korean,Year,Seoul,37.5665,126.978,South Korea,Texas,76210
+SZKR1475,2015-001-502000,Female,Arabic,Year,Rabat,33.9716,6.8498,Morocco,New York,11231
+SZSF5639,2015-001-509609,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Illinois,60638
+TAZM3362,2015-001-503861,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Georgia,30305
+TBYH7754,2015-001-502456,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Kansas,66208
+TBZM6141,2015-001-503745,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Nevada,89523
+TDCT4367,2015-001-501049,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,California,94123
+TFMT5696,2015-001-501001,Male,Korean,Summer,Songdo,37.3839,126.6439,South Korea,California,95816
+TGMG4219,2015-001-501906,Female,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,Michigan,48036
+TGSG4195,2015-001-501080,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Iowa,52405
+THEC2142,2015-001-511301,Male,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Alaska,99517
+TJSE3326,2015-001-503334,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Missouri,64108
+TMBW5878,2015-001-501224,Male,Chinese,Year,Beijing,39.9042,116.4074,China,Ohio,44028
+TMGH7371,2015-001-502760,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Washington,98607
+TNCK4324,2015-001-502040,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Massachusetts,1748
+TPGJ1288,2015-001-500606,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Illinois,60543
+TPMY1881,2015-001-502295,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,Oklahoma,73026
+TQRA9865,2015-001-503740,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,South Carolina,29579
+TRNA5744,2015-001-502076,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Wisconsin,53212
+TSFT5321,2015-001-502104,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Kentucky,42303
+TSMD7712,2015-001-501202,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,North Carolina,27401
+TUAN2995,2015-001-503297,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,Illinois,60110
+TUPW6578,2015-001-502782,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Washington,99203
+TUTU1836,2015-001-503716,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,New York,11030
+TWXT6512,2015-001-511472,Male,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60641
+TYQP4644,2015-001-502057,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Texas,75248
+TZFP1126,2015-001-501004,Male,Chinese,Summer,Nanjing,32.0603,118.7969,China,Connecticut,6410
+TZGW2952,2015-001-511280,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Colorado,81611
+UAGP7527,2015-001-501929,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,New Jersey,7928
+UCWD1464,2015-001-501692,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Georgia,30338
+UDRH6632,2015-001-511473,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60639
+UETS5935,2015-001-500931,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Texas,75093
+UFEN6829,2015-001-501736,Female,Chinese,Year,Beijing,39.9042,116.4074,China,Illinois,60010
+UGAR5716,2015-001-502373,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Utah,84098
+UHGN7813,2015-001-501538,Male,Chinese,Summer,Deyang,31.1269,104.3979,China,Colorado,80512
+UJFC3865,2015-001-509602,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,11377
+UKAG7518,2015-001-502570,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Washington,98040
+UKMV4329,2015-001-509619,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Texas,77459
+UMAE7175,2015-001-502960,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Alabama,35405
+UMJG7855,2015-001-511296,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4401
+UNMT4841,2015-001-503520,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Virginia,22101
+UNVV8717,2015-001-501056,Male,Turkish,Year,Izmir,38.4237,27.1428,Turkey,Maine,4032
+UNXV6342,2015-001-502657,Male,Arabic,Summer,Amman,31.9454,35.9284,Jordan,New York,10305
+UPMC1832,2015-001-502165,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Virginia,22201
+UQBK7671,2015-001-501375,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Kentucky,40214
+UQVC6226,2015-001-501858,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,New York,10025
+UQXW8991,2015-001-501206,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Virginia,23116
+URSH4999,2015-001-503034,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Wisconsin,53211
+USPG9494,2015-001-500471,Male,Chinese,Summer,Hangzhou,#N/A,#N/A,China,,739969
+UTJN1811,2015-001-502836,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Washington,98065
+UTNC1917,2015-001-500920,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,New Hampshire,3801
+UTUH7927,2015-001-501730,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Wisconsin,53217
+UTXD4148,2015-001-501680,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Kansas,66215
+UVSG2954,2015-001-500509,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Texas,76017
+UVYA3888,2015-001-502014,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Colorado,80122
+VAEQ4629,2015-001-502405,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Ohio,45236
+VAWY4216,2015-001-501000,Female,Hindi,Summer,Indore,22.7196,75.8577,India,New Jersey,7043
+VBWF4845,2015-001-503046,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,California,90505
+VESE1636,2015-001-500724,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Florida,32210
+VFBT4478,2015-001-501267,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Florida,32578
+VFMK3689,2015-001-503107,Female,Hindi,Summer,Indore,22.7196,75.8577,India,Kentucky,40324
+VFWK5625,2015-001-502150,Female,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,North Carolina,27405
+VGNY4437,2015-001-501416,Female,Arabic,Year,Rabat,33.9716,6.8498,Morocco,New Jersey,7042
+VJPJ1596,2015-001-501780,Male,Hindi,Year,Indore,22.7196,75.8577,India,North Carolina,28778
+VMJG3693,2015-001-503091,Male,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Texas,78258
+VMJR5794,2015-001-503093,Male,Turkish,Summer,Bursa,40.1885,29.061,Turkey,Ohio,45174
+VMRF4326,2015-001-503721,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,Missouri,64113
+VMSJ7283,2015-001-501543,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Maryland,21209
+VMTT4376,2015-001-501752,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Missouri,63017
+VNNK4428,2015-001-502739,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Illinois,60515
+VNNN1999,2015-001-500980,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,South Dakota,57783
+VPDR2144,2015-001-501247,Male,Chinese,Summer,Zhuhai,#N/A,#N/A,China,,556509
+VPPU9558,2015-001-511271,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4072
+VQMG5247,2015-001-501600,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Virginia,22201
+VRCC7164,2015-001-500507,Female,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,Pennsylvania,18064
+VRWV1834,2015-001-503509,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Kansas,66053
+VSDP2131,2015-001-502897,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,91320
+VSFZ8788,2015-001-502398,Female,Hindi,Summer,Indore,22.7196,75.8577,India,California,91377
+VSMM8139,2015-001-502298,Female,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Wisconsin,53593
+VSSE7918,2015-001-509626,Male,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Illinois,60804
+VUXE7575,2015-001-502607,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Colorado,80238
+VWAN4982,2015-001-501488,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Arizona,85048
+VWDA7276,2015-001-502918,Female,Chinese,Year,Changzhou,31.8112,119.9741,China,Wisconsin,53210
+VWRC6167,2015-001-503351,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Minnesota,55079
+WAHZ6327,2015-001-501479,Female,Turkish,Year,Izmir,38.4237,27.1428,Turkey,Indiana,47201
+WBRC6146,2015-001-503347,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Arizona,85756
+WBWK9933,2015-001-503222,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Maine,4106
+WDNN4714,2015-001-501626,Male,Arabic,Summer,Marrakesh,31.6295,7.9811,Morocco,Virginia,23456
+WDTE7467,2015-001-501483,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Delaware,19962
+WDVH1984,2015-001-502300,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Iowa,52172
+WGCG3973,2015-001-501506,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,94086
+WGGT7431,2015-001-503372,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,North Carolina,28374
+WGXN1154,2015-001-502378,Male,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Texas,78704
+WJPH7147,2015-001-502978,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,South Carolina,29526
+WNMR5223,2015-001-511469,Male,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60639
+WNTR7544,2015-001-502219,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Wisconsin,53805
+WNXS2718,2015-001-502115,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,Texas,77479
+WPMD3227,2015-001-511475,Female,Russian,Summer,Daugavpils,55.8747,26.5362,Latvia,Illinois,60647
+WQRN4152,2015-001-501991,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Washington,98424
+WRDY4287,2015-001-503680,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Maryland,21046
+WRFA1414,2015-001-503841,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Wisconsin,53118
+WSBG5698,2015-001-501110,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,District of Columbia,20008
+WTBZ6324,2015-001-503167,Female,Chinese,Year,Beijing,39.9042,116.4074,China,Oregon,97212
+WTXM9273,2015-001-501719,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Virginia,23113
+WUXF2975,2015-001-503585,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,California,94062
+WVAT2262,2015-001-502631,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Arizona,85209
+WVDD2668,2015-001-501597,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Wyoming,82801
+WWGZ4471,2015-001-502293,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Maryland,20815
+WWJA7296,2015-001-509625,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,11214
+WWZK7913,2015-001-500601,Male,Hindi,Summer,Indore,22.7196,75.8577,India,Kansas,66224
+WXKE6161,2015-001-500947,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Georgia,30084
+WXWC9948,2015-001-503123,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Texas,75248
+WZGD7253,2015-001-502802,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Pennsylvania,15017
+WZHT4279,2015-001-501192,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Arizona,85331
+WZPC1677,2015-001-502818,Female,Hindi,Year,Indore,22.7196,75.8577,India,Texas,78232
+XART9568,2015-001-511273,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Iowa,52722
+XBGH9574,2015-001-503180,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Nevada,89143
+XBJF6197,2015-001-511275,Male,Chinese,Summer,Harbin,45.8038,126.535,China,Idaho,83401
+XCEW9784,2015-001-509637,Female,Korean,Summer,Songdo,37.3839,126.6439,South Korea,Texas,77003
+XCFR6896,2015-001-500992,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Utah,84097
+XCJN5227,2015-001-511314,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Colorado,80303
+XCZH1361,2015-001-500995,Male,Arabic,Summer,Amman,31.9454,35.9284,Jordan,Florida,33928
+XDBF9267,2015-001-503021,Male,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,New York,10069
+XDHN8952,2015-001-503854,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,Maryland,20815
+XDSB6726,2015-001-502560,Male,Chinese,Summer,Suzhou,31.299,120.5853,China,California,95452
+XDTD8992,2015-001-509638,Female,Turkish,Summer,Ankara,39.9334,32.8597,Turkey,New York,11236
+XEUC6736,2015-001-503625,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,New York,11782
+XGJR6821,2015-001-500930,Female,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Massachusetts,2130
+XGSR8516,2015-001-501499,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New Jersey,7104
+XJGY9653,2015-001-511287,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,California,91362
+XJKK1338,2015-001-503459,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Virginia,22043
+XKHA3422,2015-001-502687,Female,Hindi,Summer,Indore,22.7196,75.8577,India,California,95819
+XPHM4819,2015-001-502608,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Florida,33073
+XPMM1737,2015-001-503912,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,New Jersey,8081
+XQUE7538,2015-001-511288,Male,Russian,Summer,Moscow,55.7558,37.6173,Russia,Rhode Island,2806
+XRJB3258,2015-001-509643,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,New York,10453
+XSGB9152,2015-001-500617,Male,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Pennsylvania,18353
+XURR8647,2015-001-501520,Male,Korean,Year,Seoul,37.5665,126.978,South Korea,Colorado,80224
+XVGG4874,2015-001-502071,Male,Russian,Summer,Narva,59.3797,28.1791,Estonia,Alaska,99709
+XVPE4685,2015-001-511294,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Alabama,35226
+XWRH7544,2015-001-503323,Female,Chinese,Summer,Zhuhai,22.271,113.5767,China,Kansas,66210
+XWTU2923,2015-001-503820,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Colorado,80503
+XYBS6514,2015-001-501662,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Florida,33437
+XYSC4592,2015-001-500783,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,Texas,76209
+XZKS9592,2015-001-502375,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Connecticut,6033
+YBNT9457,2015-001-501859,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Washington,98502
+YCVN2823,2015-001-501894,Male,Chinese,Summer,Shanghai,31.2304,121.4737,China,District of Columbia,20002
+YDAW7221,2015-001-502242,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Arizona,85286
+YDER3812,2015-001-504442,Female,Chinese,Year,Kaohsiung,22.6273,120.3014,Taiwan,Washington,99223
+YDMW2456,2015-001-511270,Female,Chinese,Summer,Harbin,45.8038,126.535,China,Maine,4038
+YFBW6586,2015-001-500566,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Maryland,20814
+YFDA4595,2015-001-501148,Male,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Oregon,97201
+YGJD6859,2015-001-503293,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,Wyoming,82070
+YGXU1125,2015-001-501777,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Texas,78746
+YJBG8333,2015-001-501062,Male,Russian,Year,Chisinau,47.0105,28.8638,Moldova,Virginia,23229
+YJUS2337,2015-001-502880,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Georgia,30327
+YKPC9782,2015-001-511281,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,South Carolina,29206
+YMDX6839,2015-001-502217,Female,Turkish,Summer,Bursa,40.1885,29.061,Turkey,New Hampshire,3301
+YPTF5277,2015-001-502835,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Tennessee,38116
+YQCZ4112,2015-001-500475,Female,Arabic,Summer,Muscat,23.5859,58.4059,Oman,Wisconsin,53521
+YQRA8371,2015-001-501768,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Texas,75228
+YQTN1544,2015-001-509618,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Texas,77074
+YRKZ8837,2015-001-502594,Male,Hindi,Summer,Pune,18.5204,73.8567,India,Minnesota,55129
+YSXK6323,2015-001-501653,Female,Russian,Summer,Narva,59.3797,28.1791,Estonia,Illinois,60305
+YSYK2288,2015-001-502478,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Washington,98115
+YUEX3845,2015-001-501913,Female,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Massachusetts,1742
+YUMY2655,2015-001-503797,Female,Hindi,Summer,Pune,18.5204,73.8567,India,Arizona,85711
+YUYG6387,2015-001-503292,Male,Chinese,Summer,Zhuhai,22.271,113.5767,China,Georgia,30318
+YVMP4959,2015-001-501845,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Virginia,22025
+YVXN4613,2015-001-501546,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,California,94566
+YXYJ4626,2015-001-502131,Male,Korean,Summer,Seoul,37.5665,126.978,South Korea,Illinois,60089
+YYDW9373,2015-001-503287,Female,Chinese,Summer,Deyang,31.1269,104.3979,China,Florida,34744
+YYEV2121,2015-001-500666,Female,Chinese,Summer,Hangzhou,30.2741,120.1551,China,Texas,75035
+YYEY1879,2015-001-503456,Female,Russian,Summer,Moscow,55.7558,37.6173,Russia,Illinois,60805
+YYQH7122,2015-001-502879,Female,Arabic,Year,Marrakesh,31.6295,7.9811,Morocco,Illinois,60620
+YZTE9456,2015-001-501893,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Illinois,60652
+ZABF8768,2015-001-503566,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Massachusetts,2093
+ZACY9279,2015-001-503240,Male,Hindi,Year,Indore,22.7196,75.8577,India,New York,14445
+ZAEB3776,2015-001-502675,Male,Russian,Summer,Kirov,58.4199,50.2097,Russia,Kansas,66049
+ZAHA2678,2015-001-500917,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Pennsylvania,19139
+ZANP7965,2015-001-503139,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Alabama,36117
+ZBVX6729,2015-001-500505,Male,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Ohio,44844
+ZCQS4654,2015-001-502891,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,New Jersey,7042
+ZCZQ9491,2015-001-503784,Female,Korean,Summer,Jeonju,35.8242,127.148,South Korea,Illinois,60540
+ZEZR8538,2015-001-503129,Female,Korean,Summer,Seoul,37.5665,126.978,South Korea,Texas,77401
+ZFHZ1711,2015-001-503743,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,California,91325
+ZGXT3818,2015-001-502448,Male,Persian (Tajik),Summer,Dushanbe,38.5598,68.787,Tajikistan,Connecticut,6033
+ZJJK9916,2015-001-500496,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,California,90024
+ZKMQ5678,2015-001-500936,Female,Korean,Year,Seoul,37.5665,126.978,South Korea,Virginia,22903
+ZNHD4847,2015-001-509641,Female,Russian,Summer,Chisinau,47.0105,28.8638,Moldova,Washington,98144
+ZNJU8819,2015-001-503227,Female,Chinese,Summer,Shanghai,31.2304,121.4737,China,Maryland,20827
+ZPJY4568,2015-001-509614,Female,Chinese,Summer,Jiaxing,30.7539,120.7585,China,Illinois,60623
+ZPSE8179,2015-001-502134,Male,Russian,Summer,Narva,59.3797,28.1791,Estonia,Alaska,99517
+ZQDZ9519,2015-001-503131,Male,Chinese,Summer,Xiamen,24.4798,118.0894,China,New York,14047
+ZSPU3827,2015-001-502429,Female,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Montana,59803
+ZTAU6794,2015-001-503634,Male,Arabic,Summer,Rabat,33.9716,6.8498,Morocco,Minnesota,55346
+ZWDE1911,2015-001-502271,Female,Chinese,Summer,Nanjing,32.0603,118.7969,China,New York,11231
+ZWTZ2533,2015-001-500603,Female,Chinese,Summer,Suzhou,31.299,120.5853,China,Iowa,50265
+ZWWY9233,2015-001-502750,Female,Chinese,Summer,Xiamen,24.4798,118.0894,China,Illinois,61615
+ZWYA9448,2015-001-500497,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Florida,32233
+ZZNK4863,2015-001-503856,Female,Russian,Summer,Kirov,58.4199,50.2097,Russia,Illinois,60565

@@ -1,0 +1,582 @@
+ais_id,ref_cide,grade,program_1,program_1_experience,program_2,program_2_experience
+2016-001-522331,XANT3932,9th,,No,,
+2016-001-522306,TABV1823,11th,,No,,
+2016-001-522303,WVYQ6854,10th,,No,,
+2016-001-522308,AYKU7595,11th,,Yes,,
+2016-001-522333,XKRT2788,9th,,Yes,,
+2016-001-522334,WHFA4969,10th,,No,,
+2016-001-522317,PWBM7578,12th,,Yes,,
+2016-001-522309,RGEP2138,10th,,No,,
+2016-001-522310,RUUY5921,11th,,No,,
+2016-001-522343,CNYA3486,11th,,No,,
+2016-001-522319,GXZU8423,11th,,No,,
+2016-001-522336,HHVJ3777,9th,,No,,
+2016-001-522337,QBFZ8286,9th,,Yes,,
+2016-001-522320,WUKZ9953,11th,,Yes,,
+2016-001-522321,JVGB1934,12th,,Yes,,
+2016-001-522339,WHZW9224,11th,,No,,
+2016-001-522344,JTQQ4237,12th,,Yes,,
+2016-001-522340,XUMM5595,10th,,Yes,,
+2016-001-522312,SVDJ2572,11th,,No,,
+2016-001-522345,CWDB8523,12th,,Yes,,
+2016-001-522324,GYEP1113,12th,,Yes,,
+2016-001-522325,CMPD7842,12th,,Yes,,
+2016-001-522346,TRFS5875,12th,,Yes,,
+2016-001-522347,ZZKW1831,12th,,Yes,,
+2016-001-522326,TVNG2544,12th,,Yes,,
+2016-001-505671,BREN1893,12th,Arabic,Yes,None,
+2016-001-505716,CZZB2189,10th,Arabic,Yes,None,
+2016-001-505299,HWSG7769,11th,Arabic,No,Any,
+2016-001-500737,JKTR8216,12th,Arabic,Yes,None,
+2016-001-507319,DFUZ8617,11th,Arabic,Yes,None,
+2016-001-500665,VMAE4491,12th,Arabic,Yes,None,
+2016-001-500471,HDJE1865,12th,Arabic,Yes,None,
+2016-001-507781,MZQX8622,12th,Arabic,No,Arabic,
+2016-001-500627,JAPJ1928,11th,Arabic,Yes,None,
+2016-001-508154,XYTH3364,10th,Arabic,Yes,None,
+2016-001-505599,UGQW4624,12th,Arabic,Yes,None,
+2016-001-508156,ZANS1812,12th,Arabic,Yes,Arabic,
+2016-001-506633,TJZG2227,12th,Arabic,No,Any,
+2016-001-506671,UPEH8582,12th,Arabic,No,None,
+2016-001-501097,ZHVD3253,11th,Arabic,Yes,None,
+2016-001-501337,KMCD5814,9th,Arabic,Yes,None,
+2016-001-507075,WSYW9955,12th,Arabic,Yes,Arabic,
+2016-001-506801,NVDV3659,10th,Arabic,No,Any,
+2016-001-507197,QZTB9251,12th,Arabic,No,Arabic,
+2016-001-507947,SMWY4983,12th,Arabic,Yes,Arabic,
+2016-001-506330,JPMX9239,12th,Arabic,Yes,None,
+2016-001-506824,VYBC6152,11th,Arabic,Yes,None,
+2016-001-506357,HUAP4838,12th,Arabic,Yes,None,
+2016-001-507994,PXKA8371,12th,Arabic,Yes,Arabic,
+2016-001-508312,ZZCK1942,12th,Arabic,Yes,Any,
+2016-001-508378,GBJS5975,11th,Arabic,Yes,None,
+2016-001-506974,XRRF7446,12th,Arabic,No,None,
+2016-001-505235,NCZA2278,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-500480,UUMV2645,11th,Chinese (Mandarin),Yes,Any,
+2016-001-505023,ZXTS1382,12th,Chinese (Mandarin),Yes,None,
+2016-001-506935,ZVUQ1539,12th,Chinese (Mandarin),Yes,None,
+2016-001-505247,QDNC7491,12th,Chinese (Mandarin),Yes,Any,
+2016-001-505250,GPPJ4193,11th,Chinese (Mandarin),No,Any,
+2016-001-500158,ZKWF6979,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-501056,XWUQ4576,11th,Chinese (Mandarin),Yes,None,
+2016-001-500187,SVWA8822,11th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-506007,NHPF7175,11th,Chinese (Mandarin),No,None,
+2016-001-506511,UCGQ6655,11th,Chinese (Mandarin),Yes,None,
+2016-001-506515,RJZV9133,10th,Chinese (Mandarin),Yes,None,
+2016-001-506516,UPAE6886,11th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-507723,TMKJ5839,11th,Chinese (Mandarin),Yes,None,
+2016-001-507309,CJTA9235,10th,Chinese (Mandarin),Yes,None,
+2016-001-506030,MSPG6779,11th,Chinese (Mandarin),Yes,None,
+2016-001-507317,FPBX5812,9th,Chinese (Mandarin),Yes,None,
+2016-001-506532,TBBS4357,10th,Chinese (Mandarin),Yes,None,
+2016-001-500470,UKMD7238,9th,Chinese (Mandarin),Yes,None,
+2016-001-501211,JMZJ3384,10th,Chinese (Mandarin),Yes,None,
+2016-001-500738,GSEZ8277,12th,Chinese (Mandarin),Yes,None,
+2016-001-505319,FMZP7485,12th,Chinese (Mandarin),Yes,None,
+2016-001-500358,ECAN9947,10th,Chinese (Mandarin),Yes,None,
+2016-001-506056,MCCN3611,10th,Chinese (Mandarin),Yes,None,
+2016-001-500996,MDAB7852,12th,Chinese (Mandarin),Yes,None,
+2016-001-505341,EMGY4549,10th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-501002,DYHV1157,10th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-500672,WCHH5713,11th,Chinese (Mandarin),Yes,None,
+2016-001-506584,RFBC1862,12th,Chinese (Mandarin),Yes,None,
+2016-001-500675,WKDM8383,11th,Chinese (Mandarin),Yes,None,
+2016-001-506108,GXXH1256,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-506115,JMTY7229,10th,Chinese (Mandarin),Yes,None,
+2016-001-506606,TCPS7219,10th,Chinese (Mandarin),No,None,
+2016-001-506128,EYGZ6629,10th,Chinese (Mandarin),Yes,None,
+2016-001-505569,AGUC4732,10th,Chinese (Mandarin),Yes,None,
+2016-001-507802,TTFZ1449,12th,Chinese (Mandarin),Yes,None,
+2016-001-505407,WGPK3798,11th,Chinese (Mandarin),No,Any,
+2016-001-500406,GQAA7422,10th,Chinese (Mandarin),Yes,None,
+2016-001-501295,PCEK7281,11th,Chinese (Mandarin),Yes,None,
+2016-001-507832,NBUX7433,11th,Chinese (Mandarin),Yes,None,
+2016-001-501296,EZET9576,9th,Chinese (Mandarin),Yes,Any,
+2016-001-507834,NNYK3926,10th,Chinese (Mandarin),Yes,None,
+2016-001-500790,DEHY6444,11th,Chinese (Mandarin),Yes,Any,
+2016-001-501094,NHHQ8762,9th,Chinese (Mandarin),Yes,None,
+2016-001-501321,VCWT7378,11th,Chinese (Mandarin),Yes,None,
+2016-001-501399,VWFH5882,10th,Chinese (Mandarin),Yes,None,
+2016-001-501324,UVWP2592,12th,Chinese (Mandarin),Yes,None,
+2016-001-508477,YNHU3351,9th,Chinese (Mandarin),Yes,None,
+2016-001-501098,YFNQ1579,11th,Chinese (Mandarin),Yes,None,
+2016-001-508216,XPPH4559,10th,Chinese (Mandarin),Yes,None,
+2016-001-507461,DSBA4217,11th,Chinese (Mandarin),Yes,Any,
+2016-001-507870,RQKA2664,11th,Chinese (Mandarin),Yes,None,
+2016-001-506726,UKFE7957,12th,Chinese (Mandarin),Yes,None,
+2016-001-501101,DDTE2638,10th,Chinese (Mandarin),Yes,None,
+2016-001-505855,ABQG2893,11th,Chinese (Mandarin),Yes,None,
+2016-001-507482,DUNQ6218,11th,Chinese (Mandarin),Yes,None,
+2016-001-507909,PQYA6676,10th,Chinese (Mandarin),Yes,None,
+2016-001-506288,ETJX8275,10th,Chinese (Mandarin),Yes,None,
+2016-001-501355,UCQB3141,11th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-505513,YRBX6118,11th,Chinese (Mandarin),Yes,None,
+2016-001-507094,WKAB7693,10th,Chinese (Mandarin),Yes,None,
+2016-001-506333,FZQB8494,10th,Chinese (Mandarin),Yes,None,
+2016-001-501109,YJZU2185,11th,Chinese (Mandarin),Yes,None,
+2016-001-507539,BPMH4861,11th,Chinese (Mandarin),Yes,None,
+2016-001-505893,DKAB9279,10th,Chinese (Mandarin),Yes,None,
+2016-001-508277,YNDA5373,12th,Chinese (Mandarin),Yes,Any,
+2016-001-506835,TUHX5119,10th,Chinese (Mandarin),Yes,None,
+2016-001-507969,QSBJ4155,11th,Chinese (Mandarin),Yes,None,
+2016-001-507977,JKYW9911,10th,Chinese (Mandarin),Yes,None,
+2016-001-507982,NSEC1658,12th,Chinese (Mandarin),Yes,None,
+2016-001-507983,NDQM5117,10th,Chinese (Mandarin),Yes,None,
+2016-001-507998,QDXF3458,12th,Chinese (Mandarin),Yes,None,
+2016-001-505910,AJDY8152,10th,Chinese (Mandarin),Yes,None,
+2016-001-508322,YEWD4347,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-507266,RRZS4492,12th,Chinese (Mandarin),Yes,Any,
+2016-001-507352,CJWU2859,10th,Chinese (Mandarin),Yes,Chinese (Mandarin),
+2016-001-501275,DKMF2986,9th,Chinese (Mandarin),Yes,None,
+2016-001-507712,PUKZ6769,11th,Chinese (Mandarin),Yes,None,
+2016-001-507635,CZNE7534,11th,Chinese (Mandarin),Yes,None,
+2016-001-509009,QWWR2827,11th,Chinese (Mandarin),No,None,
+2016-001-500931,SYKE1782,12th,Hindi,Yes,Any,
+2016-001-505972,NMXN5819,11th,Hindi,Yes,Any,
+2016-001-506023,NPKR2611,11th,Hindi,Yes,Hindi,
+2016-001-506639,QJMN5428,11th,Hindi,No,Any,
+2016-001-508284,UANV2832,10th,Hindi,No,None,
+2016-001-506362,JDZP7686,10th,Hindi,No,Any,
+2016-001-506776,WGCG2239,12th,Hindi,No,Any,
+2016-001-500637,ZKPG6355,11th,Korean,Yes,None,
+2016-001-505969,FAJB1731,11th,Korean,Yes,None,
+2016-001-508085,XQRN3969,10th,Korean,Yes,Any,
+2016-001-506964,ZMDP8266,11th,Korean,Yes,Any,
+2016-001-500501,WZVM8162,12th,Korean,Yes,None,
+2016-001-507012,ZRDW1716,10th,Korean,No,Any,
+2016-001-500333,ZBBG8393,12th,Korean,Yes,Korean,
+2016-001-505404,SJST7988,11th,Korean,Yes,None,
+2016-001-505648,TVFK3692,11th,Korean,Yes,None,
+2016-001-505650,URPZ8437,12th,Korean,Yes,None,
+2016-001-500814,DGZV4829,12th,Korean,Yes,None,
+2016-001-507481,HZUM6736,12th,Korean,Yes,Korean,
+2016-001-507527,JHCW1244,9th,Korean,No,None,
+2016-001-507156,VHPF7727,11th,Korean,Yes,Korean,
+2016-001-505552,HTMG3585,12th,Korean,No,None,
+2016-001-508003,MZYS5513,11th,Korean,Yes,None,
+2016-001-507787,NBUT9194,12th,Korean,No,None,
+2016-001-507671,BFBF9157,12th,Korean,Yes,Korean,
+2016-001-507701,PQHD1687,10th,Russian,Yes,None,
+2016-001-508106,YVMG4427,11th,Russian,Yes,None,
+2016-001-507318,GMBJ4535,11th,Russian,Yes,None,
+2016-001-506047,NPHK6751,12th,Russian,Yes,None,
+2016-001-501229,ZZDA5246,12th,Russian,Yes,None,
+2016-001-506998,WQJS7595,12th,Russian,Yes,None,
+2016-001-501074,HARS3669,12th,Russian,Yes,None,
+2016-001-501259,VSKM7828,12th,Russian,Yes,None,
+2016-001-506130,ETCF9128,11th,Russian,Yes,None,
+2016-001-505637,KSRU5341,11th,Russian,Yes,Russian,
+2016-001-505644,HXVT8492,11th,Russian,Yes,None,
+2016-001-506698,NWDV9895,11th,Russian,Yes,Any,
+2016-001-505471,FKVP4278,11th,Russian,Yes,None,
+2016-001-505490,AUKF9836,12th,Russian,No,None,
+2016-001-508236,XKRD4668,11th,Russian,Yes,None,
+2016-001-507966,KMFZ7757,11th,Russian,Yes,None,
+2016-001-506396,NMWT3194,12th,Russian,Yes,Any,
+2016-001-508050,SYWM1526,12th,Russian,Yes,None,
+2016-001-508065,PYNX7383,11th,Russian,Yes,None,
+2016-001-508999,CRFQ9926,11th,Russian,No,None,
+2016-001-506816,QPSG9628,10th,Russian,No,None,
+2016-001-505914,BPBK4232,11th,Russian,Yes,None,
+2016-001-506434,QDEM2585,12th,Turkish,Yes,Turkish,
+2016-001-505962,JPHB5419,10th,Turkish,Yes,Any,
+2016-001-505746,BQNQ4992,10th,Turkish,No,None,
+2016-001-507596,FUJB6383,11th,Turkish,No,Any,
+2016-001-509011,BZWC8653,11th,Arabic,Yes,Turkish,No
+2016-001-508983,TFCJ8725,11th,Arabic,Yes,Hindi,No
+2016-001-508984,VNKQ5329,12th,Arabic,No,Turkish,No
+2016-001-501126,PTGX4843,11th,Arabic,No,Persian (Tajiki) - Summer Only,No
+2016-001-500139,QBFY4727,12th,Arabic,No,Hindi,No
+2016-001-505949,HYKE3481,11th,Arabic,Yes,Turkish,No
+2016-001-507277,HKMN7552,12th,Arabic,Yes,None,No
+2016-001-500623,JWYY4646,11th,Arabic,Yes,Turkish,No
+2016-001-505956,MZZM7884,10th,Arabic,No,Chinese (Mandarin),No
+2016-001-501149,ZSRN5626,11th,Arabic,No,Any,No
+2016-001-501156,EFER1928,11th,Arabic,No,Turkish,No
+2016-001-500934,UMNV9392,12th,Arabic,Yes,Hindi,No
+2016-001-505714,DPUH8695,11th,Arabic,Yes,Russian,No
+2016-001-505269,ZBRH9883,12th,Arabic,Yes,None,No
+2016-001-500935,KZYD4837,12th,Arabic,Yes,Turkish,No
+2016-001-508092,YKWV3313,12th,Arabic,Yes,Chinese (Mandarin),No
+2016-001-500654,TPTA6732,12th,Arabic,No,Hindi,No
+2016-001-505995,NPKP4782,12th,Arabic,No,Turkish,No
+2016-001-501182,UGCC1155,11th,Arabic,No,Hindi,No
+2016-001-506497,UXFK7517,12th,Arabic,No,Any,No
+2016-001-506004,EZQN2254,12th,Arabic,No,Arabic,No
+2016-001-506513,RTTQ8491,12th,Arabic,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-500701,FJMK7357,10th,Arabic,Yes,Russian,No
+2016-001-505673,VDHD2292,11th,Arabic,No,Persian (Tajiki) - Summer Only,No
+2016-001-500416,RDWP3316,11th,Arabic,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-507307,HHHS7625,12th,Arabic,Yes,Turkish,No
+2016-001-507730,KEFZ1888,12th,Arabic,No,Turkish,No
+2016-001-501063,FMVT5683,12th,Arabic,Yes,Turkish,No
+2016-001-506042,HDUH5914,10th,Arabic,Yes,Russian,No
+2016-001-506536,TMYQ7357,11th,Arabic,No,Russian,No
+2016-001-500626,AZKA8841,11th,Arabic,Yes,Russian,No
+2016-001-506050,KHGJ6252,10th,Arabic,Yes,Turkish,No
+2016-001-507330,EBPZ6992,12th,Arabic,No,Turkish,No
+2016-001-507333,CFBH3314,12th,Arabic,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-501233,FPFP5356,11th,Arabic,No,Russian,No
+2016-001-501235,QRGN6932,11th,Arabic,No,Persian (Tajiki) - Summer Only,No
+2016-001-505636,EAMQ5681,11th,Arabic,No,Any,No
+2016-001-505400,FGXF5328,11th,Arabic,No,Turkish,No
+2016-001-507027,XJVH7171,11th,Arabic,Yes,Turkish,No
+2016-001-507820,SGUV3153,9th,Arabic,Yes,Turkish,No
+2016-001-508182,XSPA8246,11th,Arabic,Yes,Chinese (Mandarin),No
+2016-001-506675,PSXE5747,9th,Arabic,No,Hindi,No
+2016-001-500546,ADDE1674,11th,Arabic,No,None,No
+2016-001-501330,RDEJ3452,10th,Arabic,Yes,Russian,No
+2016-001-506237,NEFF3989,11th,Arabic,Yes,Turkish,No
+2016-001-505483,DMTM9711,11th,Arabic,Yes,Hindi,No
+2016-001-500693,DGSR8475,11th,Arabic,No,Russian,No
+2016-001-505496,XSAR7171,11th,Arabic,Yes,Hindi,No
+2016-001-505865,CRCX7658,12th,Arabic,Yes,Chinese (Mandarin),No
+2016-001-505871,DJCC5386,11th,Arabic,Yes,Hindi,No
+2016-001-506848,QJMK5759,12th,Arabic,Yes,Turkish,No
+2016-001-505680,QMCY1612,12th,Arabic,No,Turkish,No
+2016-001-507207,EZWD8157,11th,Arabic,Yes,Russian,No
+2016-001-508002,JTGC8347,11th,Arabic,Yes,Russian,No
+2016-001-506402,JBPY9999,10th,Arabic,Yes,Korean,No
+2016-001-506420,KYND8178,10th,Arabic,No,Russian,No
+2016-001-507651,BJTK1197,11th,Arabic,No,Hindi,No
+2016-001-508338,WNWA1297,11th,Arabic,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-500918,YFDJ7331,10th,Arabic,Yes,Hindi,No
+2016-001-508321,VWPQ4983,10th,Arabic,No,Arabic,No
+2016-001-509031,ASYG5923,10th,Arabic,No,Russian,No
+2016-001-509006,VRMG8995,11th,Arabic,No,Chinese (Mandarin),No
+2016-001-506074,FPEV7554,11th,Arabic,Yes,Chinese (Mandarin),No
+2016-001-508980,WGBU5826,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-500926,ZCZS5698,12th,Chinese (Mandarin),No,Turkish,No
+2016-001-505943,KJHB1858,10th,Chinese (Mandarin),Yes,Russian,No
+2016-001-500469,RKGE3935,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-500248,YVEN4539,11th,Chinese (Mandarin),No,Arabic,No
+2016-001-505245,KZGC2736,10th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-506449,SHCA5619,12th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505700,CJPA6785,11th,Chinese (Mandarin),No,Russian,No
+2016-001-500963,VTMC9673,9th,Chinese (Mandarin),Yes,Russian,No
+2016-001-508086,VEEH3142,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),No
+2016-001-500650,MNWA6443,12th,Chinese (Mandarin),Yes,Korean,No
+2016-001-506470,SWPG8972,10th,Chinese (Mandarin),Yes,Russian,No
+2016-001-500728,PYBH8327,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-500251,GDMS8631,12th,Chinese (Mandarin),Yes,Turkish,No
+2016-001-507705,TFMB8185,11th,Chinese (Mandarin),Yes,Persian (Tajiki) - Summer Only,No
+2016-001-507706,SZBN6837,12th,Chinese (Mandarin),Yes,Russian,No
+2016-001-505999,MNSH5736,10th,Chinese (Mandarin),Yes,None,No
+2016-001-506499,SGEY6231,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-500193,UDQR3129,12th,Chinese (Mandarin),Yes,Hindi,No
+2016-001-506009,JXCA1379,12th,Chinese (Mandarin),Yes,Any,No
+2016-001-501196,YVAQ2416,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-507725,PXEU6469,11th,Chinese (Mandarin),No,Korean,No
+2016-001-506525,TCZU5152,12th,Chinese (Mandarin),Yes,None,No
+2016-001-505735,BAVR9516,11th,Chinese (Mandarin),No,Russian,No
+2016-001-501209,MNFN3553,12th,Chinese (Mandarin),Yes,Russian,No
+2016-001-505737,CTGV7935,11th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-505742,AGDF8736,10th,Chinese (Mandarin),Yes,Hindi,No
+2016-001-506985,YHEV6222,11th,Chinese (Mandarin),Yes,Persian (Tajiki) - Summer Only,No
+2016-001-500992,JGTZ1885,12th,Chinese (Mandarin),No,Korean,No
+2016-001-507328,HDVY3793,10th,Chinese (Mandarin),No,Korean,No
+2016-001-505748,AYGR4562,10th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505332,ECZM5266,10th,Chinese (Mandarin),Yes,Korean,No
+2016-001-507749,MSMN4963,12th,Chinese (Mandarin),Yes,Korean,No
+2016-001-506994,XEBA1321,11th,Chinese (Mandarin),No,Arabic,No
+2016-001-506091,JVKH4651,12th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-505769,ADCZ7717,10th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-506104,JZBH6547,11th,Chinese (Mandarin),No,Korean,No
+2016-001-505596,WVSJ1836,9th,Chinese (Mandarin),No,Arabic,No
+2016-001-505373,NGHN4835,9th,Chinese (Mandarin),Yes,Korean,No
+2016-001-508163,YGQR8511,12th,Chinese (Mandarin),Yes,Korean,No
+2016-001-501079,NYFJ8785,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505638,XYDQ7873,10th,Chinese (Mandarin),No,Arabic,No
+2016-001-506634,UWNF4328,11th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-506636,NWGP1886,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-501284,ZDZM9819,12th,Chinese (Mandarin),No,Korean,No
+2016-001-506638,TCKJ3286,12th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-500832,MFEW8111,9th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-507413,EWSD9888,11th,Chinese (Mandarin),Yes,Hindi,No
+2016-001-507037,YAKD3586,10th,Chinese (Mandarin),No,Korean,No
+2016-001-507418,JJGG4865,12th,Chinese (Mandarin),Yes,Korean,No
+2016-001-506202,FFJR8781,10th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-506210,JCYA1476,10th,Chinese (Mandarin),Yes,Korean,No
+2016-001-506228,GKCD1248,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-506254,GMSR6174,11th,Chinese (Mandarin),Yes,Persian (Tajiki) - Summer Only,No
+2016-001-508986,BGBB1745,11th,Chinese (Mandarin),Yes,Persian (Tajiki),No
+2016-001-501338,TZXT6212,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-507888,TADQ4985,10th,Chinese (Mandarin),Yes,Russian,No
+2016-001-506275,FKWK8136,10th,Chinese (Mandarin),Yes,Persian (Tajiki) - Summer Only,No
+2016-001-508232,WVKP4987,12th,Chinese (Mandarin),Yes,Russian,No
+2016-001-506296,HBWV4269,10th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505866,EJNJ9758,10th,Chinese (Mandarin),No,Russian,No
+2016-001-507934,QYTY5744,11th,Chinese (Mandarin),No,Russian,No
+2016-001-506810,PYGW2949,11th,Chinese (Mandarin),No,Russian,No
+2016-001-506323,JTBQ6947,10th,Chinese (Mandarin),No,Russian,No
+2016-001-507520,BBDY8613,11th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-501038,GJCU5524,10th,Chinese (Mandarin),No,Korean,No
+2016-001-507954,QXTF5185,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-507959,TTJE8589,12th,Chinese (Mandarin),No,Hindi,No
+2016-001-507557,FGZT1143,12th,Chinese (Mandarin),No,Hindi,No
+2016-001-508992,CHXX9715,11th,Chinese (Mandarin),No,Arabic,No
+2016-001-506863,UMTS5457,10th,Chinese (Mandarin),Yes,Turkish,No
+2016-001-506379,KQXH4398,11th,Chinese (Mandarin),Yes,Russian,No
+2016-001-505559,SSTZ4865,9th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-505553,DRWX5428,12th,Chinese (Mandarin),Yes,Hindi,No
+2016-001-506405,KKDT6559,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505922,AKVM9742,12th,Chinese (Mandarin),Yes,Russian,No
+2016-001-508349,BEXY5451,12th,Chinese (Mandarin),No,Korean,No
+2016-001-505931,EGPT3495,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-506919,PTFP8588,10th,Chinese (Mandarin),Yes,Korean,No
+2016-001-505939,AFKP9973,12th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-508339,XUKB6139,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-507658,GENK6311,10th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-505868,DRVX8143,12th,Chinese (Mandarin),No,Arabic,No
+2016-001-509000,RTFF7466,10th,Chinese (Mandarin),No,Korean,No
+2016-001-508080,YEZR4767,12th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-505601,JQQF9495,11th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-508272,YHPW1565,12th,Chinese (Mandarin),Yes,Arabic,No
+2016-001-508083,WMQY2733,11th,Chinese (Mandarin),Yes,Hindi,No
+2016-001-506910,SYCV8962,11th,Chinese (Mandarin),Yes,Korean,No
+2016-001-509003,PBBG2694,11th,Chinese (Mandarin),No,Arabic,No
+2016-001-505251,DXCC3325,11th,Hindi,Yes,Korean,No
+2016-001-506945,ZZQK6781,10th,Hindi,No,Chinese (Mandarin),No
+2016-001-501168,NYTD1355,11th,Hindi,No,Turkish,No
+2016-001-501173,MMAB2643,11th,Hindi,No,Arabic,No
+2016-001-508133,WNHQ7291,11th,Hindi,No,Arabic,No
+2016-001-506123,NDJQ8543,12th,Hindi,No,Arabic,No
+2016-001-505792,DGKU8816,12th,Hindi,No,Hindi,No
+2016-001-507824,SYRE8921,11th,Hindi,No,Korean,No
+2016-001-507182,NZZU8861,12th,Hindi,No,Russian,No
+2016-001-506196,FUTQ8265,11th,Hindi,No,Arabic,No
+2016-001-508214,WKFJ5746,12th,Hindi,No,Persian (Tajiki) - Summer Only,No
+2016-001-506766,QZJN3866,11th,Hindi,No,Turkish,No
+2016-001-506796,TDRY6944,10th,Hindi,No,Arabic,No
+2016-001-506321,FFPB5496,11th,Hindi,No,Arabic,No
+2016-001-507126,WHKW6753,11th,Hindi,No,Hindi,No
+2016-001-505911,CHQZ4839,12th,Hindi,Yes,Arabic,No
+2016-001-507145,ZHUP2175,9th,Hindi,No,Chinese (Mandarin),No
+2016-001-506542,NWZT7252,11th,Hindi,No,Korean,No
+2016-001-506991,YYZD2588,12th,Hindi,No,Hindi,No
+2016-001-506997,YDKG5357,10th,Hindi,No,Arabic,No
+2016-001-509013,VSAF9497,11th,Hindi,No,Arabic,No
+2016-001-507252,PKYP8355,11th,Korean,No,Korean,No
+2016-001-506933,WPTR8372,10th,Korean,No,Russian,No
+2016-001-501132,QSHH1436,11th,Korean,No,Korean,No
+2016-001-500919,RUKR6628,12th,Korean,Yes,None,No
+2016-001-505246,TKHT1996,11th,Korean,No,Arabic,No
+2016-001-501138,GFMM9773,12th,Korean,No,Chinese (Mandarin),No
+2016-001-506941,YNZH8929,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-506942,YRQQ9876,12th,Korean,No,Chinese (Mandarin),No
+2016-001-505256,DKRA2327,12th,Korean,No,Chinese (Mandarin),No
+2016-001-507245,BDSY4787,10th,Korean,Yes,Hindi,No
+2016-001-500819,KGQK5564,12th,Korean,Yes,Chinese (Mandarin),No
+2016-001-501159,KRZA8457,10th,Korean,Yes,Korean,No
+2016-001-500969,KFRX4633,12th,Korean,Yes,Chinese (Mandarin),No
+2016-001-506477,WCVD4142,11th,Korean,Yes,None,No
+2016-001-505992,FQGV2739,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-505718,CKJN3314,10th,Korean,Yes,Chinese (Mandarin),No
+2016-001-505996,HZSH1493,12th,Korean,No,Chinese (Mandarin),No
+2016-001-500976,ZCAJ2761,11th,Korean,No,None,No
+2016-001-501185,JMSH8192,12th,Korean,Yes,Chinese (Mandarin),No
+2016-001-500993,AJCJ8398,12th,Korean,No,Turkish,No
+2016-001-506062,FVAX2632,12th,Korean,Yes,Chinese (Mandarin),No
+2016-001-506566,TTCB1185,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-508144,ZKNE4661,11th,Korean,Yes,Hindi,No
+2016-001-507005,WTGW5521,11th,Korean,No,Persian (Tajiki) - Summer Only,No
+2016-001-508159,VAMT5965,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-505393,SYUA9487,12th,Korean,Yes,Hindi,No
+2016-001-506188,MFYD4965,11th,Korean,No,Chinese (Mandarin),No
+2016-001-505441,PKHP5955,12th,Korean,No,Chinese (Mandarin),No
+2016-001-501327,ZWYX7676,11th,Korean,No,Chinese (Mandarin),No
+2016-001-505473,WWVK6396,12th,Korean,Yes,Chinese (Mandarin),No
+2016-001-505844,BETY4467,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-505848,DBHN8968,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-501340,YSBG9475,11th,Korean,No,Chinese (Mandarin),No
+2016-001-507911,JRFV8365,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-507931,MKHC9295,11th,Korean,No,Russian,No
+2016-001-508988,MGFH1835,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-508989,ZAUJ7356,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-507952,JJVY2341,11th,Korean,Yes,Russian,No
+2016-001-501072,XGKY9952,11th,Korean,No,Russian,No
+2016-001-507967,RXGC2763,11th,Korean,No,Hindi,No
+2016-001-505550,CSYP8238,11th,Korean,Yes,Chinese (Mandarin),No
+2016-001-508087,YVQE3497,11th,Korean,Yes,Russian,No
+2016-001-500783,AECT9484,12th,Korean,Yes,Korean,No
+2016-001-509002,DVPT4822,11th,Korean,No,Chinese (Mandarin),No
+2016-001-506551,UMFS5881,11th,Korean,No,Arabic,No
+2016-001-509007,EGVN1832,11th,Korean,Yes,Turkish,No
+2016-001-505626,KPKG7226,12th,Persian (Tajiki) - Summer Only,No,Russian,No
+2016-001-506950,XXBD4229,12th,Persian (Tajiki) - Summer Only,No,Turkish,No
+2016-001-505712,BUPJ6483,11th,Persian (Tajiki) - Summer Only,No,Hindi,No
+2016-001-507287,CJHV1492,12th,Persian (Tajiki) - Summer Only,No,Arabic,No
+2016-001-506049,GUQC4184,11th,Persian (Tajiki) - Summer Only,No,Arabic,No
+2016-001-507887,SWUH6576,11th,Persian (Tajiki) - Summer Only,No,Turkish,No
+2016-001-506808,THJD4745,11th,Persian (Tajiki) - Summer Only,No,Turkish,No
+2016-001-506870,SUZQ6844,10th,Persian (Tajiki) - Summer Only,No,Chinese (Mandarin),No
+2016-001-507139,XQEF1517,11th,Persian (Tajiki) - Summer Only,No,Arabic,No
+2016-001-505941,NJJN8619,10th,Russian,Yes,Korean,No
+2016-001-500929,BZUX6566,11th,Russian,Yes,Korean,No
+2016-001-501140,FZFK7693,10th,Russian,No,Turkish,No
+2016-001-508074,ZRJV4617,10th,Russian,Yes,None,No
+2016-001-501147,DGRK4686,11th,Russian,Yes,Any,No
+2016-001-500753,VEBS2189,10th,Russian,No,Chinese (Mandarin),No
+2016-001-501054,HYAJ6181,11th,Russian,No,Turkish,No
+2016-001-508365,ZUYD2298,10th,Russian,No,Chinese (Mandarin),No
+2016-001-506485,PYKY9366,12th,Russian,No,Chinese (Mandarin),No
+2016-001-501189,DNGM9387,11th,Russian,Yes,Hindi,No
+2016-001-506008,GHQY5679,11th,Russian,No,Hindi,No
+2016-001-506972,YXAF1141,11th,Russian,Yes,None,No
+2016-001-505307,AQAE6931,11th,Russian,No,Korean,No
+2016-001-500987,UXNB8913,11th,Russian,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-506054,JHYY5947,11th,Russian,No,Any,No
+2016-001-506075,JFXD9249,11th,Russian,No,Korean,No
+2016-001-505757,AHHP6881,9th,Russian,No,Korean,No
+2016-001-506570,TZTR6621,10th,Russian,Yes,Korean,No
+2016-001-506084,KDQQ5796,11th,Russian,No,Arabic,No
+2016-001-505352,KJCX2285,11th,Russian,Yes,Any,No
+2016-001-506580,TBRC1644,11th,Russian,No,Turkish,No
+2016-001-506099,NHBS5285,12th,Russian,Yes,Chinese (Mandarin),No
+2016-001-508147,ZBXU7259,11th,Russian,No,Chinese (Mandarin),No
+2016-001-505797,CYPT8973,10th,Russian,Yes,Turkish,No
+2016-001-507815,NSWU3759,11th,Russian,No,Chinese (Mandarin),No
+2016-001-501278,VBVZ2449,12th,Russian,Yes,Turkish,No
+2016-001-507823,SQYW2615,11th,Russian,No,Arabic,No
+2016-001-505806,DDYQ9819,12th,Russian,Yes,Arabic,No
+2016-001-505422,CJCU7155,12th,Russian,No,Arabic,No
+2016-001-501325,PCBN7973,12th,Russian,Yes,Arabic,No
+2016-001-506239,MSYT9136,11th,Russian,No,Korean,No
+2016-001-506248,GWPU6785,12th,Russian,No,Arabic,No
+2016-001-507463,FVME7854,12th,Russian,Yes,Arabic,No
+2016-001-505852,DAXR1821,11th,Russian,Yes,Arabic,No
+2016-001-507195,TZNU6631,12th,Russian,No,Arabic,No
+2016-001-507903,SYEN8134,12th,Russian,Yes,Arabic,No
+2016-001-506291,MZSU6735,10th,Russian,No,Turkish,No
+2016-001-506299,FMHW9126,12th,Russian,Yes,Arabic,No
+2016-001-505620,KKDQ6984,11th,Russian,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-501374,NMXT4882,12th,Russian,No,Chinese (Mandarin),No
+2016-001-507105,XYJZ1333,10th,Russian,No,Korean,No
+2016-001-508410,QZVN2793,12th,Russian,Yes,Arabic,No
+2016-001-505908,EENK9648,11th,Russian,Yes,Arabic,No
+2016-001-506392,HWHB1497,11th,Russian,No,Turkish,No
+2016-001-505930,DPFS6362,11th,Russian,No,Arabic,No
+2016-001-506928,UPXE1998,12th,Russian,Yes,Persian (Tajiki) - Summer Only,No
+2016-001-507644,AZJT6266,12th,Russian,No,Chinese (Mandarin),No
+2016-001-509001,TDKB6915,9th,Russian,No,Persian (Tajiki),No
+2016-001-500802,RQRT6215,12th,Russian,Yes,Arabic,No
+2016-001-506406,JCRR7492,11th,Russian,No,Persian (Tajiki) - Summer Only,No
+2016-001-509008,YFUV1924,11th,Russian,No,Hindi,No
+2016-001-506930,XTMF5441,10th,Turkish,No,Hindi,No
+2016-001-505241,SNTF2349,11th,Turkish,No,Arabic,No
+2016-001-505947,MJNE6533,12th,Turkish,No,Russian,No
+2016-001-501177,GHEQ9365,11th,Turkish,No,Arabic,No
+2016-001-506490,SAPC5521,10th,Turkish,No,Russian,No
+2016-001-505287,CJDD4385,12th,Turkish,No,Russian,No
+2016-001-500782,MMDZ7181,12th,Turkish,No,Arabic,No
+2016-001-506059,HSTF5686,12th,Turkish,Yes,None,No
+2016-001-507748,KQCX7375,11th,Turkish,No,Persian (Tajiki) - Summer Only,No
+2016-001-506083,EWGC3431,11th,Turkish,No,Arabic,No
+2016-001-506573,TQTQ2873,10th,Turkish,No,Korean,No
+2016-001-506095,JZAY6921,11th,Turkish,No,Korean,No
+2016-001-506097,HSAU3248,11th,Turkish,Yes,Arabic,No
+2016-001-505382,FYVH9972,12th,Turkish,Yes,Arabic,No
+2016-001-505386,BANM9871,12th,Turkish,No,Arabic,No
+2016-001-507799,JUCG2186,12th,Turkish,No,Hindi,No
+2016-001-506148,KYUX1316,10th,Turkish,Yes,Hindi,No
+2016-001-501083,VEVS2661,11th,Turkish,Yes,Arabic,No
+2016-001-507898,KDNJ4947,11th,Turkish,No,Arabic,No
+2016-001-505502,RAMG4798,11th,Turkish,No,Russian,No
+2016-001-506305,JTHD5795,11th,Turkish,No,Arabic,No
+2016-001-507627,AKDC6918,12th,Turkish,No,Arabic,No
+2016-001-508997,HVRW8735,11th,Turkish,Yes,Arabic,No
+2016-001-508993,EUVP5692,11th,Turkish,No,Russian,No
+2016-001-500523,KZDQ4182,9th,Arabic,Yes,Russian,Yes
+2016-001-505263,XYRR4927,11th,Arabic,No,Chinese (Mandarin),Yes
+2016-001-500163,UFJD9422,9th,Arabic,Yes,Chinese (Mandarin),Yes
+2016-001-506508,STRW4751,11th,Arabic,Yes,Turkish,Yes
+2016-001-507741,MBMU4616,11th,Arabic,No,Korean,Yes
+2016-001-506554,VQVY7367,10th,Arabic,Yes,Arabic,Yes
+2016-001-500538,VHAW4415,11th,Arabic,Yes,Russian,Yes
+2016-001-505652,AJWB8278,11th,Arabic,Yes,Chinese (Mandarin),Yes
+2016-001-505670,TWVM9541,11th,Arabic,Yes,Turkish,Yes
+2016-001-507101,YXXF4998,11th,Arabic,Yes,Chinese (Mandarin),Yes
+2016-001-507665,EFNV5535,11th,Arabic,No,Turkish,Yes
+2016-001-500652,AQDM2153,11th,Arabic,No,Korean,Yes
+2016-001-500383,ZRCM1433,12th,Chinese (Mandarin),Yes,None,Yes
+2016-001-505627,FDEA1124,10th,Chinese (Mandarin),Yes,Hindi,Yes
+2016-001-505255,BWBD3312,12th,Chinese (Mandarin),No,Any,Yes
+2016-001-500727,XVJG3374,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),Yes
+2016-001-505981,KBBJ2757,11th,Chinese (Mandarin),Yes,Russian,Yes
+2016-001-500390,WUPA6593,12th,Chinese (Mandarin),Yes,None,Yes
+2016-001-501175,UAHD5349,11th,Chinese (Mandarin),Yes,None,Yes
+2016-001-507709,RGDA9492,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),Yes
+2016-001-505721,AYZB7848,11th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-500865,CSHC6796,12th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-506503,WCFG3248,12th,Chinese (Mandarin),Yes,Hindi,Yes
+2016-001-505292,XVXR4778,10th,Chinese (Mandarin),Yes,None,Yes
+2016-001-500624,PTHK2157,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),Yes
+2016-001-506018,HTUW9597,10th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-501199,MSPR2273,12th,Chinese (Mandarin),Yes,Chinese (Mandarin),Yes
+2016-001-500398,CQRY5584,11th,Chinese (Mandarin),Yes,None,Yes
+2016-001-506581,WDCC2438,11th,Chinese (Mandarin),Yes,None,Yes
+2016-001-506096,FVEF4848,11th,Chinese (Mandarin),Yes,Arabic,Yes
+2016-001-506611,PNGC3725,12th,Chinese (Mandarin),Yes,Russian,Yes
+2016-001-505420,YSJC3175,11th,Chinese (Mandarin),Yes,None,Yes
+2016-001-501341,JMVF1513,10th,Chinese (Mandarin),Yes,Arabic,Yes
+2016-001-509012,YNRP9615,11th,Chinese (Mandarin),Yes,Hindi,Yes
+2016-001-505679,YVSU5482,11th,Chinese (Mandarin),Yes,Arabic,Yes
+2016-001-505537,XCVM3276,10th,Chinese (Mandarin),Yes,None,Yes
+2016-001-506927,UDBC5512,12th,Chinese (Mandarin),Yes,Arabic,Yes
+2016-001-508996,AQXT1939,9th,Chinese (Mandarin),No,Korean,Yes
+2016-001-500817,GSVU1762,11th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-500936,KJZE1853,11th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-500396,XAXS8582,10th,Chinese (Mandarin),Yes,Korean,Yes
+2016-001-506135,MUBG2416,12th,Hindi,Yes,Russian,Yes
+2016-001-500947,XGEB5531,11th,Hindi,Yes,Arabic,Yes
+2016-001-505498,QGCP7631,11th,Hindi,Yes,Chinese (Mandarin),Yes
+2016-001-501108,WJRB1934,10th,Hindi,No,Chinese (Mandarin),Yes
+2016-001-508979,TDTE2435,12th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-506931,YAZQ2284,12th,Korean,No,Chinese (Mandarin),Yes
+2016-001-500927,PRXV7891,12th,Korean,Yes,Korean,Yes
+2016-001-505239,EEAD9573,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-500140,NDEC7235,10th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-505062,TJTG7317,11th,Korean,Yes,Any,Yes
+2016-001-501139,CPWT6867,12th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-501158,FPFV7174,12th,Korean,No,Chinese (Mandarin),Yes
+2016-001-500967,FSQP9178,12th,Korean,Yes,Korean,Yes
+2016-001-506473,RVCB5493,11th,Korean,Yes,Korean,Yes
+2016-001-501169,NBDR5544,11th,Korean,Yes,Korean,Yes
+2016-001-506484,TGKD9939,11th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-500547,XFMY4142,12th,Korean,Yes,Russian,Yes
+2016-001-501059,JMZC1115,11th,Korean,Yes,Korean,Yes
+2016-001-500784,GPPE3699,11th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-501222,RXDG9874,12th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-506546,SWWE4626,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-507011,ZTAC6666,11th,Korean,No,Russian,Yes
+2016-001-501300,RRBC3855,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-501316,TAMK3647,10th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-507885,KXHS7157,11th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-505616,MYWS6398,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-508268,URCW9992,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-506850,PUCY5337,11th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-505536,UXHT8666,12th,Korean,Yes,Chinese (Mandarin),Yes
+2016-001-507247,VBZY5835,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-507631,BETU2623,11th,Korean,No,Chinese (Mandarin),Yes
+2016-001-501297,BFNY4826,11th,Persian (Tajiki) - Summer Only,No,Arabic,Yes
+2016-001-507855,MEET8115,11th,Persian (Tajiki) - Summer Only,No,Russian,Yes
+2016-001-501096,KNXR8569,9th,Persian (Tajiki) - Summer Only,No,Arabic,Yes
+2016-001-506318,EKMU5957,10th,Persian (Tajiki) - Summer Only,No,Chinese (Mandarin),Yes
+2016-001-501124,RQGK4527,11th,Russian,Yes,Russian,Yes
+2016-001-501046,RURF3638,10th,Russian,No,Chinese (Mandarin),Yes
+2016-001-500777,HUKR9789,10th,Russian,Yes,Russian,Yes
+2016-001-500521,DZHS8844,9th,Russian,Yes,Korean,Yes
+2016-001-508082,UBKQ2655,12th,Russian,Yes,Arabic,Yes
+2016-001-506469,VKMJ8912,12th,Russian,Yes,Chinese (Mandarin),Yes
+2016-001-500703,DCMM2236,11th,Russian,Yes,Chinese (Mandarin),Yes
+2016-001-505629,JNVK3855,11th,Russian,Yes,None,Yes
+2016-001-501181,KCND1991,11th,Russian,Yes,Any,Yes
+2016-001-506044,KWBB4188,12th,Russian,No,Arabic,Yes
+2016-001-501000,PRYG9562,12th,Russian,Yes,Russian,Yes
+2016-001-507016,ZUNT6137,12th,Russian,Yes,Chinese (Mandarin),Yes
+2016-001-505387,KBPH4785,10th,Russian,Yes,Korean,Yes
+2016-001-507238,BWCG2143,12th,Russian,Yes,Arabic,Yes
+2016-001-506559,PHAJ7811,12th,Russian,Yes,Chinese (Mandarin),Yes
+2016-001-508990,SSPG8286,10th,Russian,No,Chinese (Mandarin),Yes
+2016-001-509004,MPAS3659,11th,Russian,No,Arabic,Yes
+2016-001-500526,ZMPD9128,11th,Turkish,No,Arabic,Yes
